@@ -1,0 +1,7 @@
+function RastgeleSoz(){
+
+}
+
+function TwitterPaylas(){
+
+}
